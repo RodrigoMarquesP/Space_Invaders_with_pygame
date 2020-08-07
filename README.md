@@ -16,6 +16,7 @@ The sounds, musics, icons and the font are included for those who wanna test the
 * A heat marker for the shooting mechanism, that limits the fire rate
 * Spawning enemies at the top of the screen those give 10 points when they are destroyed
 * Enemies blast shoots
+* A explosion sequence for every hit
 * Four randomly generated power-ups (Bomb, Shield, Points, Speed)
 * The **Bomb** power-up explodes all actual enemys at the screen
 * The **Shield** power-up add a shield if there are less than three
