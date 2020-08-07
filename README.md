@@ -34,3 +34,10 @@ A executable can be generated for the game, following the steps:
 * While developing your own applications, a good place to look for icons is <https://www.flaticon.com/>.  
 * During execution in energy economy it can present performance drop, i'm sorry about that, but fell free to study pygame documentation to fix this problem.
 * All sounds had frequency downgrade for 'old school' looking
+
+**Game screenshots:**
+![](images/front_screen.png)
+![](images/main.png)
+![](images/main2.png)
+![](images/main3.png)
+![](images/gameover.png)
