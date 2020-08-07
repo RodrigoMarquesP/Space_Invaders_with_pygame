@@ -14,7 +14,7 @@ The sounds, musics, icons and the font are included for those who wanna test the
 * Bullets from the battleship
 * Three maximum lifes of the battleship (shields)
 * A heat marker for the shooting mechanism, that limits the fire rate
-* Spawning enemies at the top of the screen those give 10 points when destroied
+* Spawning enemies at the top of the screen those give 10 points when they are destroyed
 * Enemies blast shoots
 * Four randomly generated power-ups (Bomb, Shield, Points, Speed)
 * The **Bomb** power-up explodes all actual enemys at the screen
