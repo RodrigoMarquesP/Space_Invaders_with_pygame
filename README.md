@@ -7,7 +7,7 @@ The sounds, musics, icons and the font are included for those who wanna test the
 
 A executable can be generated from this file, following the steps:
 
-1 - Install pyInstaller module
+1 - Install pyInstaller module \n
 2 - run  ``pyInstaller -F -c --hidden-import="pkg_resources.py2_warn" --onefile -i"the_icon.ico" the_file.py``
 Details:
 => 'the_ico' must be replaced by the name of the .ico file and 'the_file' must be the name of the python file, which will be the .exe name too.
