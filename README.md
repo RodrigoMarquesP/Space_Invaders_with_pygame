@@ -46,5 +46,7 @@ A executable can be generated for the game, following the steps:
 
 <img src="images/main3.png" width="500">
 
+<img src="images/main4.png" width="500">
+
 <img src="images/gameover.png" width="500">
 
