@@ -33,3 +33,4 @@ A executable can be generated for the game, following the steps:
 * The hidden import of pkg_resources.py2_warn was due to an error that i found creating the executable, but may be already fixed when you're running yourself.  
 * While developing your own applications, a good place to look for icons is <https://www.flaticon.com/>.  
 * During execution in energy economy it can present performance drop, i'm sorry about that, but fell free to study pygame documentation to fix this problem.
+* All sounds had frequency downgrade for 'old school' looking
