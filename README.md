@@ -1,4 +1,4 @@
-# Space_Invaders_with_pygame
+# Space Invaders with pygame
 A complete project of a space invaders game developed in python with pygame
 
 This project was focused in develop a high indented code of a full game in python using pygame.
