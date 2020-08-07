@@ -6,6 +6,7 @@ It's made in a structural shape instead of object oriented - which are maybe the
 The sounds, musics, icons and the font are included for those who wanna test the code.
 
 **The game is composed by:**  
+* A first screen with instructions
 * Color pulsing background
 * Four pixel stars running down at the backgroud
 * Four spinning meteors that instantly cause game over
@@ -20,6 +21,7 @@ The sounds, musics, icons and the font are included for those who wanna test the
 * The **Shield** power-up add a shield if there are less than three
 * The **Points** power-up give 100 points
 * The **Speed** power-up accelerate everything in the game, making it harder, but much funnier
+* A end game screen
 
 A executable can be generated for the game, following the steps:
 
