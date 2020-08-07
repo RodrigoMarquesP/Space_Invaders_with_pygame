@@ -37,16 +37,13 @@ A executable can be generated for the game, following the steps:
 
 ## **Game screenshots:**
 
-![](images/front_screen.png)
+<img src="images/front_screen.png" width="500">
 
+<img src="images/main.png" width="500">
 
-![](images/main.png)
+<img src="images/main2.png" width="500">
 
+<img src="images/main3.png" width="500">
 
-![](images/main2.png)
+<img src="images/gameover.png" width="500">
 
-
-![](images/main3.png)
-
-
-![](images/gameover.png)
