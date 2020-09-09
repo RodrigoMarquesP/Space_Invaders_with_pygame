@@ -1,6 +1,8 @@
 # Space Invaders with pygame
 A complete project of a space invaders game developed in python with pygame
 
+The main objective of developing this game was to know and practice the basic but hidden low levels of a game structure. This can lead to a better comprehension of objects' interaction and the grown of the computational complexity with the game dynamics layers. 
+
 This project was focused in develop a high indented code of a full game in python using pygame.
 It's made in a structural shape instead of object oriented - which are maybe the more recommended. 
 The sounds, musics, icons and the font (Pokemon GB.ttf) are included for those who want to test the code.
